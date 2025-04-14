@@ -1,11 +1,9 @@
-// src/components/Loader.tsx
 import React, { useEffect, useRef, useState } from 'react';
 import gsap from 'gsap';
 import './Loader.scss';
 
 const Loader: React.FC = () => {
   const circleRef = useRef<HTMLDivElement>(null);
-  const lineRef = useRef<HTMLDivElement>(null);
   const textRef = useRef<HTMLHeadingElement>(null);
   const bgRef = useRef<HTMLDivElement>(null);
   const overlayRef = useRef<HTMLDivElement>(null);
@@ -23,21 +21,45 @@ const Loader: React.FC = () => {
       },
     });
 
+    // ✨ 1. Točka: pojavi se i leluja
     tl.fromTo(
       circleRef.current,
       { scale: 0, opacity: 0 },
-      { scale: 1, opacity: 1, duration: 1, ease: 'power2.out' }
+      { scale: 1, opacity: 1, duration: 0.8, ease: 'power2.out' }
     )
+      .to(
+        circleRef.current,
+        {
+          x: -10,
+          duration: 0.3,
+          ease: 'power1.inOut',
+        },
+        '+=0.1'
+      )
+      .to(circleRef.current, {
+        x: 10,
+        duration: 0.3,
+        ease: 'power1.inOut',
+      })
+      .to(circleRef.current, {
+        x: 0,
+        duration: 0.3,
+        ease: 'power1.inOut',
+      })
+
+      // 💫 2. Transformacija u liniju s rotacijom (kazaljka)
       .to(
         circleRef.current,
         {
           scaleX: 15,
           scaleY: 0.15,
+          rotation: 360,
           backgroundColor: '#d4af37',
-          duration: 1,
+          duration: 1.2,
           ease: 'power4.inOut',
+          transformOrigin: 'center center',
         },
-        "+=0.3"
+        '+=0.2'
       )
       .to(
         circleRef.current,
@@ -47,38 +69,49 @@ const Loader: React.FC = () => {
           borderRadius: 0,
           duration: 0.5,
         },
-        '-=0.5'
+        '-=0.8'
       )
+
+      // 🔅 3. Nestanak linije
+      .to(
+        circleRef.current,
+        {
+          opacity: 0,
+          duration: 0.4,
+          ease: 'power1.inOut',
+        },
+        '+=0.2'
+      )
+
+      // 🪶 4. Tekst in
       .to(
         textRef.current,
         {
           opacity: 1,
           duration: 0.6,
-          onStart: () => {
-            if (circleRef.current) circleRef.current.style.visibility = 'hidden';
-          },
         },
         '+=0.2'
       )
-      .to(
-        textRef.current,
-        { scale: 1.1, duration: 1, ease: 'power2.out' }
-      )
+
+      // 💨 5. Dim tekst out
       .to(
         textRef.current,
         {
-          scale: 6,
-          color: 'transparent',
-          WebkitTextStroke: '1px #d4af37',
-          duration: 1,
-          ease: 'power4.inOut',
+          duration: 1.2,
+          onStart: () => {
+            if (textRef.current) {
+              textRef.current.classList.add('loader__text--smoke');
+            }
+          },
         },
-        '+=0.2'
+        '+=0.6'
       )
+
+      // 🌄 6. Pozadina fade-in
       .to(
         bgRef.current,
         { opacity: 1, duration: 1.2, ease: 'power2.inOut' },
-        '-=0.8'
+        '-=1'
       );
   }, []);
 
