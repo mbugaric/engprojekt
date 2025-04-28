@@ -11,36 +11,16 @@ const Loader: React.FC = () => {
   const bgRef = useRef<HTMLDivElement>(null);
   const overlayRef = useRef<HTMLDivElement>(null);
   const satelliteRef = useRef<HTMLDivElement>(null);
+  const loaderRef = useRef<HTMLDivElement>(null);
   const [hide, setHide] = useState(false);
 
   useEffect(() => {
-    const tl = gsap.timeline({
-      onComplete: () => {
-        gsap.to(overlayRef.current, {
-          opacity: 0,
-          duration: 0.6,
-          delay: 0.3,
-          onComplete: () => setHide(true),
-        });
-      },
+    gsap.set(circleRef.current, {
+      xPercent: -50,
+      yPercent: -50,
     });
 
-    // Glavna kuglica: fade-in + pulsiranje
-    tl.fromTo(circleRef.current, { scale: 0, opacity: 0 }, { scale: 1, opacity: 1, duration: 0.9, ease: "elastic.out(1, 0.6)" }).to(
-      circleRef.current,
-      {
-        scale: 1.05,
-        repeat: 2,
-        yoyo: true,
-        duration: 0.35,
-        ease: "sine.inOut",
-      },
-      ">-0.2"
-    );
-
-    // Satelit: orbita i povratak
     const satelliteTl = gsap.timeline();
-
     satelliteTl
       .to(
         satelliteRef.current,
@@ -63,19 +43,17 @@ const Loader: React.FC = () => {
           ease: "power2.inOut",
         },
         0
-      ) // start immediately
-
+      )
       .to(
         satelliteRef.current,
         {
           backgroundColor: "#d4af37",
-          boxShadow: "0 0 24px rgba(212, 175, 55, 0.6)",
+          boxShadow: "0 0 24px #d4af37",
           duration: 2.2,
           ease: "power1.inOut",
         },
-        0 // in parallel with path
+        0
       )
-
       .to(
         satelliteRef.current,
         {
@@ -83,21 +61,44 @@ const Loader: React.FC = () => {
           duration: 0.2,
           ease: "power1.inOut",
         },
-        ">-0.1" // immediately after path ends
+        ">-0.1"
       );
 
-    // Kuglica prelazi u liniju
-    tl.to(
+    const tl = gsap.timeline();
+
+    tl.fromTo(
       circleRef.current,
-      {
-        scaleX: 15,
-        scaleY: 0.15,
-        backgroundColor: "#d4af37",
-        duration: 1.2,
-        ease: "power4.inOut",
-      },
-      "+=0.3"
+      { scale: 0, opacity: 0 },
+      { scale: 1, opacity: 1, duration: 0.9, ease: "elastic.out(1, 0.6)" }
     )
+      .to(
+        circleRef.current,
+        {
+          scale: 1.05,
+          repeat: 2,
+          yoyo: true,
+          duration: 0.35,
+          ease: "sine.inOut",
+        },
+        ">-0.2"
+      )
+      .to(
+        circleRef.current,
+        {
+          scaleX: 15,
+          scaleY: 0.15,
+          backgroundColor: "#d4af37",
+          duration: 1.2,
+          ease: "power4.inOut",
+          transformOrigin: "center center",
+          onStart: () => {
+            setTimeout(() => {
+              circleRef.current?.classList.add("loader__flash-grow--light");
+            }, 100);
+          }
+        },
+        "+=0.3"
+      )
       .to(
         circleRef.current,
         {
@@ -108,44 +109,58 @@ const Loader: React.FC = () => {
         },
         "-=0.8"
       )
-      // 🔥 TEKST SE POJAVLJUJE TIJEKOM NESTANKA LINIJE
       .to(
         textRef.current,
         {
           opacity: 1,
-          duration: 0.6,
+          duration: 0.4,
+          ease: "power2.out",
+
         },
-        "-=0.0"
+        "-=0.3"
       )
       .to(
         circleRef.current,
         {
-          opacity: 0,
-          duration: 0.4,
+          scaleY: 1020,
+          duration: 0.7,
+          ease: "power2.inOut",
+          transformOrigin: "center center",
+          onStart: () => {
+            circleRef.current?.classList.add("loader__flash-grow");
+            circleRef.current?.classList.add("loader__flash-grow--transparent");
+          },
+        },
+        "-=0.2"
+      )
+      .to(
+        circleRef.current,
+        {
+          backgroundColor: "transparent",
+          duration: 0.6,
           ease: "power1.inOut",
         },
-        "+=0.1"
+        "+=1"
       )
-      // Tekst rasplinjuje i ide gore
       .to(
         textRef.current,
         {
-          duration: 1.4,
-          onStart: () => {
-            if (textRef.current) {
-              textRef.current.classList.add("loader__text--smoke");
-            }
-          },
+          opacity: 0,
+          duration: 1,
+          ease: "power1.inOut",
         },
-        "+=1.6"
+        "+=0"
       )
-      .to(bgRef.current, { opacity: 1, duration: 1.2, ease: "power2.inOut" }, "-=1");
+      .add(() => {
+        loaderRef.current?.classList.add("loader--fade-out");
+        setTimeout(() => setHide(true), 3000);
+      }, "-=1");
   }, []);
 
   if (hide) return null;
 
   return (
-    <div className="loader">
+    <div className="loader" ref={loaderRef}>
       <div className="loader__bg" ref={bgRef}></div>
       <div className="loader__overlay" ref={overlayRef}></div>
       <div className="loader__center">
