@@ -67,7 +67,7 @@ const ReferenceProjectsExplorer: React.FC = () => {
         case "year_desc":
           return parseYear(b.year) - parseYear(a.year);
         case "alpha":
-          return (language === "hr" ? a.name_hr : a.name_en).localeCompare(language === "hr" ? b.name_hr : b.name_en);
+          return (language === "hr" ? a.name_hr ?? "" : a.name_en ?? "").localeCompare(language === "hr" ? b.name_hr ?? "" : b.name_en ?? "");
         case "area_desc":
         default:
           return (b.area_m2 ?? 0) - (a.area_m2 ?? 0);
