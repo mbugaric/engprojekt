@@ -61,7 +61,7 @@ const BackgroundImageSlider: React.FC = () => {
   }, [hasStarted, currentIndex]);
 
   return (
-    <div className="background-slider">
+    <div className="background-slider" id="home">
       {images.map((src, index) => {
         const isActive = index === currentIndex;
         const isPrevious = index === previousIndex;

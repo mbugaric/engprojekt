@@ -5,7 +5,7 @@ import "./Loader.scss";
 
 gsap.registerPlugin(MotionPathPlugin);
 
-const Loader: React.FC = () => {
+const Loader: React.FC<{ onFinish?: () => void }> = ({ onFinish }) => {
   const circleRef = useRef<HTMLDivElement>(null);
   const textRef = useRef<HTMLHeadingElement>(null);
   const bgRef = useRef<HTMLDivElement>(null);
@@ -153,9 +153,14 @@ const Loader: React.FC = () => {
       )
       .add(() => {
         loaderRef.current?.classList.add("loader--fade-out");
-        setTimeout(() => setHide(true), 3000);
+        setTimeout(() => {
+          setHide(true);
+          onFinish?.(); 
+        }, 3000);
       }, "-=1");
   }, []);
+
+  
 
   if (hide) return null;
 

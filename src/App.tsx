@@ -10,16 +10,18 @@ import Gallery from "./components/Gallery/Gallery";
 
 function App() {
   return (
-    <I18nProvider>
-      <ScrollToTopOnMount />
-      <Loader />
-      <BackgroundImageSlider />
-      <ResponsiveMenu />
-      <AboutUs />
-      <Gear />
-      {/* <VentilationSystem /> */}
-      <Gallery />
-    </I18nProvider>
+    <>
+      <Loader />{" "}
+      <I18nProvider>
+        <ScrollToTopOnMount />
+        <BackgroundImageSlider />
+        <ResponsiveMenu />
+        <AboutUs />
+        <Gear />
+        {/* <VentilationSystem /> */}
+        <Gallery />
+      </I18nProvider>
+    </>
   );
 }
 

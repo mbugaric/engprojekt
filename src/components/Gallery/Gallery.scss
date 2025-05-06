@@ -1,7 +1,26 @@
 .gallery {
     width: 100%;
-    padding: 6rem 0;
+    padding: 6rem 0 6rem 0;
     background-color: #e6f2fb;
+
+    .section-heading {
+        font-size: 2.8rem;
+        font-family: 'Playfair Display', serif;
+        color: #003366;
+        text-align: left;
+        padding: 0 2rem;
+        max-width: 1600px;
+        margin: 0 auto 3rem auto;
+      
+        &::after {
+          content: "";
+          display: block;
+          width: 60px;
+          height: 3px;
+          background-color: #003366;
+          margin-top: 0.4rem;
+        }
+      }
 
     &__grid {
         display: grid;
@@ -10,6 +29,7 @@
         max-width: 1600px;
         margin: 0 auto;
         padding: 0 2rem;
+        justify-content: center;
     }
 
     &__item {
@@ -97,7 +117,7 @@
                 padding: 0.6rem 1rem;
                 bottom: 1rem;
                 right: 1rem;
-              }
+            }
         }
     }
 
@@ -172,5 +192,33 @@
         will-change: transform, opacity;
         backface-visibility: hidden;
         transform-style: preserve-3d;
+    }
+
+    .gallery__load-more {
+        text-align: center;
+        margin-top: 3rem;
+
+        button {
+            font-family: 'Playfair Display', serif;
+            font-size: 1.1rem;
+            background: #003366;
+            color: #fff;
+            padding: 0.8rem 2rem;
+            border: none;
+            border-radius: 6px;
+            cursor: pointer;
+            transition: all 0.3s ease;
+
+            &:hover:enabled {
+                background: #002244;
+                box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+            }
+
+            &:disabled {
+                opacity: 0.4;
+                cursor: default;
+                background: #003366;
+            }
+        }
     }
 }

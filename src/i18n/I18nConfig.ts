@@ -8,6 +8,7 @@ export const translations: Record<Language, Record<string, string>> = {
     about: "O nama",
     contact: "Kontakt",
     language: "Jezik",
+    loadMore: "Prikaži još",
   },
   en: {
     home: "Home",
@@ -16,5 +17,6 @@ export const translations: Record<Language, Record<string, string>> = {
     about: "About",
     contact: "Contact",
     language: "Language",
+    loadMore: "Load more", 
   },
 };
