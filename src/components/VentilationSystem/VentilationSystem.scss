@@ -9,7 +9,23 @@
   svg {
     width: clamp(200px, 30vw, 400px);
     height: auto;
-    filter: drop-shadow(0 0 30px rgba(0, 0, 0, 0.2));
+    filter: drop-shadow(0 0 10px rgba(0, 0, 0, 0.2));
+  }
+
+  .air-stream path {
+    stroke-dasharray: 10;
+    stroke-dashoffset: 0;
+    animation: streamFlow 2s linear infinite;
+    opacity: 0.4;
+  }
+
+  @keyframes streamFlow {
+    from {
+      stroke-dashoffset: 0;
+    }
+    to {
+      stroke-dashoffset: -20;
+    }
   }
 
   @media (max-width: 700px) {

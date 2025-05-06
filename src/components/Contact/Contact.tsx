@@ -37,7 +37,7 @@ const Contact: React.FC = () => {
             </li>
             <li><strong>{language === "hr" ? "Telefon" : "Phone"} 1:</strong> +385 (0) 21 375 257</li>
             <li><strong>{language === "hr" ? "Telefon" : "Phone"} 2:</strong> +385 (0) 21 375 258</li>
-            <li><strong>Email:</strong> contact@engprojekt.hr</li>
+            <li><strong>Email: </strong><a href="mailto:contact@engprojekt.hr">contact@engprojekt.hr</a></li>
           </ul>
         </div>
 
