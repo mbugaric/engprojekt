@@ -9,6 +9,7 @@ export const translations: Record<Language, Record<string, string>> = {
     contact: "Kontakt",
     language: "Jezik",
     loadMore: "Prikaži još",
+    downloadDocx: "Preuzmi reference",
   },
   en: {
     home: "Home",
@@ -18,5 +19,6 @@ export const translations: Record<Language, Record<string, string>> = {
     contact: "Contact",
     language: "Language",
     loadMore: "Load more", 
+    downloadDocx: "Download references",
   },
 };

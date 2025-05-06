@@ -2,6 +2,8 @@
   padding: 6rem 2rem;
   background: linear-gradient(to bottom, #e6f2fb 0%, #ffffff 100%);
   font-family: 'Playfair Display', serif;
+  position: relative;
+  overflow: hidden;
 
   &__container {
     display: grid;

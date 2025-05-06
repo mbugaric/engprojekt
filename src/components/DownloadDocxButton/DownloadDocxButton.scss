@@ -1,0 +1,27 @@
+.download-docx-wrapper {
+  text-align: center;
+  margin-top: 3rem;
+}
+
+.download-docx-button {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.1rem;
+  background: #003366;
+  color: #fff;
+  padding: 0.8rem 2rem;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: all 0.3s ease;
+
+  &:hover:enabled {
+    background: #002244;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+
+  &:disabled {
+    opacity: 0.4;
+    cursor: default;
+    background: #003366;
+  }
+}

@@ -23,14 +23,14 @@ const ReferenceProjectsExplorer: React.FC = () => {
   useEffect(() => {
     const timeout = setTimeout(() => {
       allowScroll.current = true;
-    }, 5000); 
-  
+    }, 5000);
+
     return () => clearTimeout(timeout);
   }, []);
-  
+
   useEffect(() => {
     if (!allowScroll.current) return;
-  
+
     if (sectionRef.current) {
       sectionRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
     }
@@ -53,10 +53,19 @@ const ReferenceProjectsExplorer: React.FC = () => {
       return nameMatch && countryMatch && typeMatch;
     });
 
+    const parseYear = (year: string | number | null | undefined): number => {
+      if (!year) return 0;
+      const str = String(year).toLowerCase();
+      if (str.includes("u tijeku")) return 9999;
+      const match = str.match(/\d{4}/g);
+      if (!match) return 0;
+      return Math.max(...match.map((y) => parseInt(y)));
+    };
+
     result.sort((a, b) => {
       switch (sortOption) {
         case "year_desc":
-          return Number(b.year ?? 0) - Number(a.year ?? 0);
+          return parseYear(b.year) - parseYear(a.year);
         case "alpha":
           return (language === "hr" ? a.name_hr : a.name_en).localeCompare(language === "hr" ? b.name_hr : b.name_en);
         case "area_desc":
@@ -83,6 +92,7 @@ const ReferenceProjectsExplorer: React.FC = () => {
 
   return (
     <section className="reference-projects" id="references" ref={sectionRef}>
+      <h2 className="section-heading">{t("Reference", "References")}</h2>
       <div className="filters">
         <input
           type="text"

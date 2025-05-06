@@ -1,6 +1,7 @@
 import React from "react";
 import "./Contact.scss";
 import { useI18n } from "../../i18n/useI18n";
+import VentilationSystem from "../VentilationSystem/VentilationSystem";
 
 const Contact: React.FC = () => {
   const { language } = useI18n();
@@ -49,6 +50,7 @@ const Contact: React.FC = () => {
           ></iframe>
         </div>
       </div>
+      <VentilationSystem />
     </section>
   );
 };

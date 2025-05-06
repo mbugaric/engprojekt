@@ -1,0 +1,18 @@
+.section-heading {
+    font-size: 2.8rem;
+    font-family: 'Playfair Display', serif;
+    color: #003366;
+    text-align: left;
+    padding: 0 2rem;
+    max-width: 1600px;
+    margin: 0 auto 3rem auto;
+  
+    &::after {
+      content: "";
+      display: block;
+      width: 60px;
+      height: 3px;
+      background-color: #003366;
+      margin-top: 0.4rem;
+    }
+  }

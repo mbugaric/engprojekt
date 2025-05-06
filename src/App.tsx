@@ -5,10 +5,11 @@ import ResponsiveMenu from "./components/ResponsiveMenu/ResponsiveMenu";
 import { I18nProvider } from "./i18n/I18nProvider";
 import AboutUs from "./components/AboutUs/AboutUs";
 import Gear from "./components/Gear/Gear";
-// import VentilationSystem from "./components/VentilationSystem/VentilationSystem";
 import Gallery from "./components/Gallery/Gallery";
 import Contact from "./components/Contact/Contact";
 import ReferenceProjectsExplorer from "./components/ReferenceProjectsExplorer/ReferenceProjectsExplorer";
+import DownloadDocxButton from "./components/DownloadDocxButton/DownloadDocxButton";
+import "./App.scss";
 
 function App() {
   return (
@@ -20,9 +21,9 @@ function App() {
         <ResponsiveMenu />
         <AboutUs />
         <Gear />
-        {/* <VentilationSystem /> */}
         <Gallery />
         <ReferenceProjectsExplorer />
+        <DownloadDocxButton />
         <Contact /> 
       </I18nProvider>
     </>

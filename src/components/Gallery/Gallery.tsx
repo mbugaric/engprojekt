@@ -3,11 +3,11 @@ import "./Gallery.scss";
 import { useI18n } from "../../i18n/useI18n";
 
 const images = [
-  { src: "/images/projects/hotels/ambasador.jpg", caption: "Ambasador" },
-  { src: "/images/projects/hotels/corinthia_krk.jpg", caption: "Corinthia Krk" },
-  { src: "/images/projects/hotels/cornaro.jpg", caption: "Cornaro" },
-  { src: "/images/projects/hotels/crown_plaza.jpg", caption: "Crown Plaza" },
-  { src: "/images/projects/hotels/pucic_palace.jpg", caption: "Pucic palace" },
+  { src: "/images/projects/hotels/ambasador.jpg", caption: "Hotel AMBASADOR, Split", },
+  { src: "/images/projects/hotels/corinthia_krk.jpg", caption: "Hotel CORINTHIA, Krk" },
+  { src: "/images/projects/hotels/cornaro.jpg", caption: "Hotel Cornaro, Split" },
+  { src: "/images/projects/hotels/crown_plaza.jpg", caption: "Crown Plaza, Prag" },
+  { src: "/images/projects/hotels/pucic_palace.jpg", caption: "Pucić palace" },
   { src: "/images/projects/hotels/sheraton.jpg", caption: "Sheraton" },
   { src: "/images/projects/industrial/ALFP_1.jpg", caption: "ALFP_1" },
   { src: "/images/projects/industrial/FEAL-1.jpg", caption: "ALFP" },
