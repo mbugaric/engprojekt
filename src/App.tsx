@@ -5,6 +5,8 @@ import ResponsiveMenu from "./components/ResponsiveMenu/ResponsiveMenu";
 import { I18nProvider } from "./i18n/I18nProvider";
 import AboutUs from "./components/AboutUs/AboutUs";
 import Gear from "./components/Gear/Gear";
+// import VentilationSystem from "./components/VentilationSystem/VentilationSystem";
+import Gallery from "./components/Gallery/Gallery";
 
 function App() {
   return (
@@ -13,8 +15,10 @@ function App() {
       <Loader />
       <BackgroundImageSlider />
       <ResponsiveMenu />
-      <AboutUs language="hr" />
+      <AboutUs />
       <Gear />
+      {/* <VentilationSystem /> */}
+      <Gallery />
     </I18nProvider>
   );
 }

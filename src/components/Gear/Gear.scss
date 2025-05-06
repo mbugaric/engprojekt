@@ -1,21 +1,44 @@
 .gear {
-    position: fixed;
-    right: 2%;
-    top: 30%;
-    width: 5vw;
-    max-width: 70px;
-    opacity: 0;
-    transform: translateY(-50%);
-    transition: opacity 0.6s ease-in-out;
-    z-index: 20;
-  
-    img {
-      width: 100%;
-      height: auto;
-      display: block;
-    }
-  
-    &--visible {
-      opacity: 1;
-    }
+  position: fixed;
+  right: -20%;
+  top: 50%;
+  transform: translateY(-50%) scale(0.8);
+  width: 42vw;
+  max-width: 520px;
+  opacity: 0;
+  transition: opacity 0.8s ease-in-out, transform 0.8s ease-in-out;
+  z-index: 5;
+  pointer-events: none;
+
+  img {
+    width: 100%;
+    height: auto;
+    display: block;
+    filter: drop-shadow(0 0 16px rgba(0, 0, 0, 0.1));
   }
+
+  &--visible {
+    opacity: 1;
+    transform: translateY(-50%) scale(1);
+  }
+
+  @media (max-width: 1200px) {
+    width: 36vw;
+    right: -18%;
+  }
+
+  @media (max-width: 900px) {
+    width: 28vw;
+    right: -15%;
+  }
+
+  @media (max-width: 700px) {
+    width: 24vw;
+    right: -12%;
+    z-index: 0;
+  }
+
+  @media (max-width: 500px) {
+    display: none;
+  }
+}

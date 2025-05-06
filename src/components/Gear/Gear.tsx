@@ -12,11 +12,11 @@ const Gear: React.FC = () => {
       const rect = about.getBoundingClientRect();
       const windowHeight = window.innerHeight;
 
-      // Kad je dio AboutUs vidljiv
-      const isVisible = rect.top < windowHeight && rect.bottom > 0;
-      setVisible(isVisible);
+      const visibleHeight = Math.min(windowHeight, rect.bottom) - Math.max(0, rect.top);
+      const isVisible = visibleHeight > windowHeight * 0.5;
 
-      setRotation(window.scrollY / 2); // rotira se upola sporije od skrola
+      setVisible(isVisible);
+      setRotation(window.scrollY / 4); 
     };
 
     window.addEventListener("scroll", handleScroll);

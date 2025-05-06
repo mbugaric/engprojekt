@@ -1,0 +1,17 @@
+.ventilation-system {
+    position: fixed;
+    left: 3vw;
+    top: 50%;
+    transform: translateY(-50%);
+    z-index: 5;
+    opacity: 0.6;
+    pointer-events: none;
+  
+    svg {
+      filter: drop-shadow(0 0 4px rgba(0, 0, 0, 0.1));
+    }
+  
+    @media (max-width: 700px) {
+      display: none;
+    }
+  }
