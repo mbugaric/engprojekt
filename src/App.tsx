@@ -7,6 +7,8 @@ import AboutUs from "./components/AboutUs/AboutUs";
 import Gear from "./components/Gear/Gear";
 // import VentilationSystem from "./components/VentilationSystem/VentilationSystem";
 import Gallery from "./components/Gallery/Gallery";
+import Contact from "./components/Contact/Contact";
+import ReferenceProjectsExplorer from "./components/ReferenceProjectsExplorer/ReferenceProjectsExplorer";
 
 function App() {
   return (
@@ -20,6 +22,8 @@ function App() {
         <Gear />
         {/* <VentilationSystem /> */}
         <Gallery />
+        <ReferenceProjectsExplorer />
+        <Contact /> 
       </I18nProvider>
     </>
   );

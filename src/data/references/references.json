@@ -1,0 +1,3476 @@
+{
+    "projects": [
+      {
+        "name_hr": "Hotel \"KOMPAS\"",
+        "name_en": "Hotel \"KOMPAS\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "1992",
+        "area_m2": 8000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"RADUČA\"",
+        "name_en": "Hotel \"RADUČA\"",
+        "location": {
+          "city": "Primošten",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "1999",
+        "area_m2": 2500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"PLAT\"",
+        "name_en": "Hotel \"PLAT\"",
+        "location": {
+          "city": "Plat",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2001",
+        "area_m2": 1000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"NIMFA - PAVILJON\"",
+        "name_en": "Hotel \"NIMFA - PAVILJON\"",
+        "location": {
+          "city": "Živogošće",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2001",
+        "area_m2": 6000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"PUCIĆ PALACE\"",
+        "name_en": "Hotel \"PUCIĆ PALACE\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2001-2002",
+        "area_m2": 3500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"BELLEVUE\"",
+        "name_en": "Hotel \"BELLEVUE\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2002",
+        "area_m2": 7000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"UVALA\"",
+        "name_en": "Hotel \"UVALA\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2002",
+        "area_m2": 4000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotelski apartmani \"ZVONIMIR\" & \"ADRIA\"",
+        "name_en": "Hotelski apartmani \"ZVONIMIR\" & \"ADRIA\"",
+        "location": {
+          "city": "Baška – otok Krk",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2003",
+        "area_m2": 5400,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"MORE\"",
+        "name_en": "Hotel \"MORE\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2005",
+        "area_m2": 3200,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"BOROVIK\"",
+        "name_en": "Hotel \"BOROVIK\"",
+        "location": {
+          "city": "Tisno-Murter",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2005",
+        "area_m2": 2900,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"ADRIATIC\"",
+        "name_en": "Hotel \"ADRIATIC\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2005-2006",
+        "area_m2": 12000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"VELARIS - LUČICA\"",
+        "name_en": "Hotel \"VELARIS - LUČICA\"",
+        "location": {
+          "city": "Supetar – otok Brač",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2006",
+        "area_m2": 3400,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"STRAHOV - CROWN PLAZA\"",
+        "name_en": "Hotel \"STRAHOV - CROWN PLAZA\"",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2005-2006",
+        "area_m2": 8000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"REGENT\"",
+        "name_en": "Hotel \"REGENT\"",
+        "location": {
+          "city": "Orašac",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2006-2007",
+        "area_m2": 23000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Dubrovački VRTOVI SUNCA - rekonstrukcija i dogradnja apartmana i dućana",
+        "name_en": "Dubrovački VRTOVI SUNCA - reconstruction and extension of apartments and shops",
+        "location": {
+          "city": "Orašac",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 19600,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"PALACE- HYATT\"",
+        "name_en": "Hotel \"PALACE- HYATT\"",
+        "location": {
+          "city": "Kaštel Stari",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2006-2007",
+        "area_m2": 37000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"MIRAMARE – VIENNA INTERNATIONAL\"",
+        "name_en": "Hotel \"MIRAMARE – VIENNA INTERNATIONAL\"",
+        "location": {
+          "city": "Crikvenica",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2006",
+        "area_m2": 16000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"LOZOVAC - VRATA KRKE\"",
+        "name_en": "Hotel \"LOZOVAC - VRATA KRKE\"",
+        "location": {
+          "city": "Lozovac- Šibenik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 5600,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"VILLA DVOR\"",
+        "name_en": "Hotel \"VILLA DVOR\"",
+        "location": {
+          "city": "Omiš",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 1400,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"KOMPAS\"",
+        "name_en": "Hotel \"KOMPAS\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2008",
+        "area_m2": 13800,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"SPLIT\"",
+        "name_en": "Hotel \"SPLIT\"",
+        "location": {
+          "city": "Split, Podstrana",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2010",
+        "area_m2": 3100,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": "prvi hotel u RH koji pripada A kategoriji zelenih hotela hotel među 8 najboljih u EU: neZEH nearly ZeroEnergy Hotel",
+        "notes_en": "( first hotel in Croatia that belongs to the A category of green hotels ) ( hotel among the 8 best in the EU: neZEH nearly ZeroEnergy Hotel )"
+      },
+      {
+        "name_hr": "Hotel \"HILTON MARJAN\"",
+        "name_en": "Hotel \"HILTON MARJAN\"",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2009-2010",
+        "area_m2": null,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"IVAN-SOLARIS\"",
+        "name_en": "Hotel \"IVAN-SOLARIS\"",
+        "location": {
+          "city": "Šibenik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2011-2012",
+        "area_m2": 17500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Aparthotel \"Sv. KRIŽ\"",
+        "name_en": "Aparthotel \"Sv. KRIŽ\"",
+        "location": {
+          "city": "Trogir – Čiovo",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2010",
+        "area_m2": 900,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"STARWOOD SHERATON ( ORLANDO )\"",
+        "name_en": "Hotel \"STARWOOD SHERATON ( ORLANDO )\"",
+        "location": {
+          "city": "Srebreno- Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2009-2015",
+        "area_m2": 32000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"PORTA SALONAE\"",
+        "name_en": "Hotel \"PORTA SALONAE\"",
+        "location": {
+          "city": "Solin",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2013-2016",
+        "area_m2": 3370,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"ROYAL\"",
+        "name_en": "Hotel \"ROYAL\"",
+        "location": {
+          "city": "Opatija",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2013",
+        "area_m2": 11000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"MERIDIONAL\"",
+        "name_en": "Hotel \"MERIDIONAL\"",
+        "location": {
+          "city": "Opatija",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2013",
+        "area_m2": 7000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"MULI\"",
+        "name_en": "Hotel \"MULI\"",
+        "location": {
+          "city": "Rogoznica",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2013",
+        "area_m2": 3900,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Bazenski kompleks hotelskog naselja RUSKAMEN",
+        "name_en": "Bazenski kompleks hotelskog naselja RUSKAMEN",
+        "location": {
+          "city": "Ruskamen",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2013",
+        "area_m2": 1000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"HILTON MONTENEGRO\"",
+        "name_en": "Hotel \"HILTON MONTENEGRO\"",
+        "location": {
+          "city": "Podgorica",
+          "country_hr": "Crna Gora",
+          "country_en": "Montenegro"
+        },
+        "year": "2013",
+        "area_m2": null,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije ( termoenergetski blok )"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC) ( thermal power plant )"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"ROYAL BLUE - IMPORTANNE RESORT\"",
+        "name_en": "Hotel \"ROYAL BLUE - IMPORTANNE RESORT\"",
+        "location": {
+          "city": "Dubrovnik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2014",
+        "area_m2": 10000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hostel \"101 DALMATINAC\" i poslovnica BSD",
+        "name_en": "Hostel \"101 DALMATINAC\" and BSD office",
+        "location": {
+          "city": "Vukovar",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2014",
+        "area_m2": 1000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"MORSKI RAK\"",
+        "name_en": "Hotel \"MORSKI RAK\"",
+        "location": {
+          "city": "Tribunj",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2014",
+        "area_m2": 1200,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"PLAŽA\"",
+        "name_en": "Hotel \"PLAŽA\"",
+        "location": {
+          "city": "Duće",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2014-2015",
+        "area_m2": 10100,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"JURE-SOLARIS\"",
+        "name_en": "Hotel \"JURE-SOLARIS\"",
+        "location": {
+          "city": "Šibenik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2015",
+        "area_m2": 28000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"CORNARO I / II /  III / IV\"",
+        "name_en": "Hotel \"CORNARO I / II /  III / IV\"",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2013-2017",
+        "area_m2": 14500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"AMBASADOR\"",
+        "name_en": "Hotel \"AMBASADOR\"",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2010-2020",
+        "area_m2": 9800,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"DUĆE\"",
+        "name_en": "Hotel \"DUĆE\"",
+        "location": {
+          "city": "Duće",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2010-2017",
+        "area_m2": 3600,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Palača TRIPALO - rekonstrukcija u Heritage Hotel (5*)",
+        "name_en": "Palača TRIPALO - reconstruction into Heritage Hotel (5*)",
+        "location": {
+          "city": "Sinj",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2016-2017",
+        "area_m2": 3200,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": "on going",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"BRETANIDE\" – PAVILJON 1 + KUHINJA",
+        "name_en": "Hotel \"BRETANIDE\" – PAVILION 1 + KITCHEN",
+        "location": {
+          "city": "Bol, otok Brač",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2017",
+        "area_m2": 3400,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Turističko naselje \"NIKOLA\"",
+        "name_en": "Residential tourist resort \"NIKOLA\"",
+        "location": {
+          "city": "Zablaće, Šibenik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2017",
+        "area_m2": 265000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"STARA ŠKOLA TISNO\"",
+        "name_en": "Hotel \"STARA ŠKOLA TISNO\"",
+        "location": {
+          "city": "Tisno, Šibenik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2017",
+        "area_m2": 1500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Turističko naselje \"DUBOKA GARMA\"",
+        "name_en": "Tourist resort \"DUBOKA GARMA\"",
+        "location": {
+          "city": "Slatine",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2017-2020",
+        "area_m2": 7300,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel URANIA",
+        "name_en": "Hotel URANIA",
+        "location": {
+          "city": "Baška Voda",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018",
+        "area_m2": 17500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel PERIVOJ",
+        "name_en": "Hotel PERIVOJ",
+        "location": {
+          "city": "Slano",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018",
+        "area_m2": 11635,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"CLAVIS\"",
+        "name_en": "Hotel \"CLAVIS\"",
+        "location": {
+          "city": "Klis",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018-2020",
+        "area_m2": 3900,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"MIRRARI\"",
+        "name_en": "Hotel \"MIRRARI\"",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019-2020",
+        "area_m2": 3000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"SLANO\"",
+        "name_en": "Hotel \"SLANO\"",
+        "location": {
+          "city": "Slano",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2017-2020",
+        "area_m2": 11700,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Aparthotel \"AMFORICA\"",
+        "name_en": "Aparthotel \"AMFORICA\"",
+        "location": {
+          "city": "Makarska",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019",
+        "area_m2": 3000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"HILDEGARD\"",
+        "name_en": "Hotel \"HILDEGARD\"",
+        "location": {
+          "city": "Ruskamen-Omiš",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019",
+        "area_m2": 3000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"VILA ROSINA\"",
+        "name_en": "Hotel \"VILA ROSINA\"",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019-2020",
+        "area_m2": 3200,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"CENTRAL\"",
+        "name_en": "Hotel \"CENTRAL\"",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019-2020",
+        "area_m2": 3000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"PALACE\" ( dio MP - MEETING POINT HOTELS )",
+        "name_en": "Hotel \"PALACE\" ( part of MP - MEETING POINT HOTELS )",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019-2020",
+        "area_m2": 60000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Aparthotel \"AQUA\"",
+        "name_en": "Aparthotel \"AQUA\"",
+        "location": {
+          "city": "Makarska",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019-2020",
+        "area_m2": 17200,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"DORIJINI DVORI\"",
+        "name_en": "Hotel \"DORIJINI DVORI\"",
+        "location": {
+          "city": "Baška Voda",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2020",
+        "area_m2": 3500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel B&B ( u okviru poslovno-hotelskog objekta K-13 )",
+        "name_en": "Hotel B&B ( within a business-hotel facility K-13 )",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2020",
+        "area_m2": 9700,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel KAŠTELA",
+        "name_en": "Hotel KAŠTELA",
+        "location": {
+          "city": "Kaštel Stari",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2020",
+        "area_m2": 10500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel CORA",
+        "name_en": "Hotel CORA",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2020",
+        "area_m2": 2100,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"MIRAMARE\"",
+        "name_en": "Hotel \"MIRAMARE\"",
+        "location": {
+          "city": "Crikvenica",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2021",
+        "area_m2": 4500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"JADRAN\"",
+        "name_en": "Hotel \"JADRAN\"",
+        "location": {
+          "city": "Rijeka",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2023",
+        "area_m2": 4658,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije - energetske obnove i bazenska tehnika"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC) - energy renovations and pool techniques"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel \"CONTINENTAL\"",
+        "name_en": "Hotel \"CONTINENTAL\"",
+        "location": {
+          "city": "Rijeka",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2023",
+        "area_m2": 3463,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Turističko naselje MASLINA RESORT II",
+        "name_en": "Tourist resort MASLINA RESORT II",
+        "location": {
+          "city": "Hvar, otok Hvar",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2024",
+        "area_m2": 5860,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja",
+          "Bazenska oprema"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing",
+          "Swimming pool equipment"
+        ],
+        "monter": false,
+        "notes_hr": "u tijeku",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel RUŽA",
+        "name_en": "Hotel RUŽA",
+        "location": {
+          "city": "Mostar",
+          "country_hr": "BiH",
+          "country_en": "BiH"
+        },
+        "year": null,
+        "area_m2": 5000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": null,
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel KALIN",
+        "name_en": "Hotel KALIN",
+        "location": {
+          "city": "Bugojno",
+          "country_hr": "BiH",
+          "country_en": "BiH"
+        },
+        "year": null,
+        "area_m2": 6700,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": null,
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotelski apartmanski kompleks VRTOVI SUNCA",
+        "name_en": "Hotel apartment complex VRTOVI SUNCA",
+        "location": {
+          "city": "Orašac",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": null,
+        "area_m2": 30000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": null,
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel PANORAMA",
+        "name_en": "Hotel PANORAMA",
+        "location": {
+          "city": "Prag",
+          "country_hr": "ČR",
+          "country_en": "Czech Republic"
+        },
+        "year": null,
+        "area_m2": 26000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": null,
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hotel CORINTHIA",
+        "name_en": "Hotel CORINTHIA",
+        "location": {
+          "city": "Prag",
+          "country_hr": "ČR",
+          "country_en": "Czech Republic"
+        },
+        "year": null,
+        "area_m2": 38000,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": null,
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Inter hotel PALACE",
+        "name_en": "Inter hotel PALACE",
+        "location": {
+          "city": "Prag",
+          "country_hr": "ČR",
+          "country_en": "Czech Republic"
+        },
+        "year": null,
+        "area_m2": 13500,
+        "object_type_hr": "Hotelski objekti",
+        "object_type_en": "Hospitality facilities & hotels",
+        "project_type_hr": null,
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «SUBA»",
+        "name_en": "Shopping center - «SUBA»",
+        "location": {
+          "city": "Budimpešta",
+          "country_hr": "Mađarska",
+          "country_en": "Hungary"
+        },
+        "year": "1995",
+        "area_m2": 11000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «EMMEZETTA MERCATONE»",
+        "name_en": "Shopping center «EMMEZETTA MERCATONE»",
+        "location": {
+          "city": "Kaštel Sućurac",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2002",
+        "area_m2": 35000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «BRICOSTORE»",
+        "name_en": "Shopping center «BRICOSTORE»",
+        "location": {
+          "city": "Kaštel Sućurac",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2003",
+        "area_m2": 8300,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «XXLutz-LESNINA»",
+        "name_en": "Shopping center «XXLutz-LESNINA»",
+        "location": {
+          "city": "Varaždin",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 23000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «BAUMAX-X»",
+        "name_en": "Shopping center «BAUMAX-X»",
+        "location": {
+          "city": "Kaštel Sućurac",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 12000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «BAUMAX-X»",
+        "name_en": "Shopping center «BAUMAX-X»",
+        "location": {
+          "city": "Karlovac",
+          "country_hr": "hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 11000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «DALMATIA CAPITOL PARK\"",
+        "name_en": "Shopping center «DALMATIA CAPITOL PARK\"",
+        "location": {
+          "city": "Dugopolje",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2008",
+        "area_m2": 85000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": "Preliminary Design"
+      },
+      {
+        "name_hr": "Trgovački centar «PORTANOVA»",
+        "name_en": "Shopping center «PORTANOVA»",
+        "location": {
+          "city": "Osijek",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2008-2009",
+        "area_m2": 73000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «DIOKLECIJAN»",
+        "name_en": "Shopping center «DIOKLECIJAN»",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2008-2009",
+        "area_m2": 126000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": "Preliminary Design"
+      },
+      {
+        "name_hr": "Trgovački centar «XXLutz-LESNINA»",
+        "name_en": "Shopping center «XXLutz-LESNINA»",
+        "location": {
+          "city": "Zagreb",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2008-2009",
+        "area_m2": 43000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar AGROKOR - SUPERKONZUM",
+        "name_en": "Shopping center AGROKOR - SUPERKONZUM",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2009",
+        "area_m2": 10700,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovno - trgovački centar RAVEL",
+        "name_en": "Poslovno - Shopping center RAVEL",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2009",
+        "area_m2": 5000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar NOVITO",
+        "name_en": "Shopping center NOVITO",
+        "location": {
+          "city": "Herceg Novi",
+          "country_hr": "Crna Gora",
+          "country_en": "Montenegro"
+        },
+        "year": "2009",
+        "area_m2": 7200,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar CITY ONE",
+        "name_en": "Shopping center CITY ONE",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2009-2010",
+        "area_m2": 120000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «MEPAS MALL»",
+        "name_en": "Shopping center «MEPAS MALL»",
+        "location": {
+          "city": "Mostar",
+          "country_hr": "BiH",
+          "country_en": "Bosnia and Herzegovina"
+        },
+        "year": "2010",
+        "area_m2": 100000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «POINT - VRBANI III»",
+        "name_en": "Shopping center «POINT - VRBANI III»",
+        "location": {
+          "city": "Zagreb",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2010-2011",
+        "area_m2": 43000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «MALL of SPLIT»",
+        "name_en": "Shopping center «MALL of SPLIT»",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2012-2016",
+        "area_m2": 176000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «METRO»",
+        "name_en": "Shopping center «METRO»",
+        "location": {
+          "city": "Kaštela",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2015-2016",
+        "area_m2": 12000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «INTERSPAR»",
+        "name_en": "Shopping center «INTERSPAR»",
+        "location": {
+          "city": "Rijeka - Rujevica",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2016-2017",
+        "area_m2": 16000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «INTERSPAR»",
+        "name_en": "Shopping center «INTERSPAR»",
+        "location": {
+          "city": "Rijeka - Krnjevo",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2017",
+        "area_m2": 18000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «XXLutz-MOMAX-LESNINA»",
+        "name_en": "Shopping center «XXLutz-MOMAX-LESNINA»",
+        "location": {
+          "city": "Pula",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018-2020",
+        "area_m2": 16800,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja",
+          "Sprinkler"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing",
+          "Sprinkler"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «XXLutz-MOMAX-LESNINA» - proširenje",
+        "name_en": "Shopping center «XXLutz-MOMAX-LESNINA» - expansion",
+        "location": {
+          "city": "Dugopolje",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2019-2020",
+        "area_m2": 12800,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja",
+          "Sprinkler"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing",
+          "Sprinkler"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Trgovački centar «XXLutz-MOMAX-LESNINA»",
+        "name_en": "Shopping center «XXLutz-MOMAX-LESNINA»",
+        "location": {
+          "city": "Rijeka",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2020",
+        "area_m2": 31000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": "warehouse 8.500 m2",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Park & Shop centar TOMMY",
+        "name_en": "Park & Shop center TOMMY",
+        "location": {
+          "city": "Trogir - Plano",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2020",
+        "area_m2": 12000,
+        "object_type_hr": "Trgovački centri",
+        "object_type_en": "Shopping centers / malls",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "ORFI MITHRA CENTER poslovna zgrada",
+        "name_en": "Office building - ORFI MITHRA CENTER",
+        "location": {
+          "city": "Budimpešta",
+          "country_hr": "Mađarska",
+          "country_en": "Hungary"
+        },
+        "year": "1993",
+        "area_m2": 7880,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "ASHABAD – Trgovački centar i poslovna zgrada",
+        "name_en": "Shopping center i Office building - ASHABAD",
+        "location": {
+          "city": "Ashabad",
+          "country_hr": "Turkmenistan",
+          "country_en": "Turkmenistan"
+        },
+        "year": "1993",
+        "area_m2": 4200,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "INVESTIČNA Banka poslovna zgrada",
+        "name_en": "Office building INVESTIČNA Banka",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1993",
+        "area_m2": 3000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Centralni ured ELECTROLUX poslovna zgrada",
+        "name_en": "Office building - centralni ured ELECTROLUX",
+        "location": {
+          "city": "Budimpešta",
+          "country_hr": "hungary",
+          "country_en": "Hungary"
+        },
+        "year": "1994",
+        "area_m2": 2500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada - RANK XEROX",
+        "name_en": "Office building -  RANK XEROX",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1995",
+        "area_m2": 2500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada– ALLIANZ",
+        "name_en": "Office building– ALLIANZ",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1995",
+        "area_m2": 2500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hrvatski školski i kulturni centar",
+        "name_en": "Croatian School and Cultural Center",
+        "location": {
+          "city": "Budimpešta",
+          "country_hr": "Mađarska",
+          "country_en": "Hungary"
+        },
+        "year": "1996",
+        "area_m2": 7500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "ROMATSA Centar kontrole zračnog prometa",
+        "name_en": "Air traffic control center - ROMATSA",
+        "location": {
+          "city": "Bucharest",
+          "country_hr": "Romania",
+          "country_en": "Romania"
+        },
+        "year": "1996",
+        "area_m2": 16000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Banka - VOLKSBANK",
+        "name_en": "Banka - VOLKSBANK",
+        "location": {
+          "city": "Bratislava",
+          "country_hr": "Slovačka",
+          "country_en": "Slovakia"
+        },
+        "year": "1997",
+        "area_m2": 6800,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – U MYSLIKU",
+        "name_en": "Office building – U MYSLIKU",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1997",
+        "area_m2": 7000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – OBCHODNA",
+        "name_en": "Office building – OBCHODNA",
+        "location": {
+          "city": "Bratislava",
+          "country_hr": "Slovačka",
+          "country_en": "Slovakia"
+        },
+        "year": "1998",
+        "area_m2": 8000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada ( aukcijska kuća ) – DOROTHEUM",
+        "name_en": "Office building ( auction house )  – DOROTHEUM",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1998",
+        "area_m2": 1500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – ALAG",
+        "name_en": "Office building   – ALAG",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1998",
+        "area_m2": 4500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – SCHALLER",
+        "name_en": "Office building – SCHALLER",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1998",
+        "area_m2": 5000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – ELEKTRA",
+        "name_en": "Office building – ELEKTRA",
+        "location": {
+          "city": "Šibenik",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "1998",
+        "area_m2": 5600,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – FRANCOUZSKA",
+        "name_en": "Office building – FRANCOUZSKA",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "1999",
+        "area_m2": 4800,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – AGRAM / EUROHERC",
+        "name_en": "Office building – AGRAM / EUROHERC",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2010",
+        "area_m2": 6800,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovni park – NOVE BUTOVICE – zgrada «A»",
+        "name_en": "Office park – NOVE BUTOVICE – building  «A»",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2000",
+        "area_m2": 10000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovni park – NOVE BUTOVICE – zgrada «D»",
+        "name_en": "Office park – NOVE BUTOVICE – building «D»",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2002",
+        "area_m2": 22000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Banka – RAIFFEISEN BANK ( sjedište za Istočnu Europu )",
+        "name_en": "Bank – RAIFFEISEN BANK ( Eastern Europe headquarters )",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2002",
+        "area_m2": 32000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovni park AVENIR - Radlička Business Park",
+        "name_en": "Office park AVENIR - Radlicka Business Park",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2003",
+        "area_m2": 16000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – INSTITUT GRAĐEVINARSTVA ( IGH ) – dil. 4",
+        "name_en": "Office building – INSTITUTE OF CIVIL ENGINEERING  (IGH ) – dil. 4",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2003",
+        "area_m2": 2600,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada EUROCENTAR",
+        "name_en": "Office building EUROCENTAR",
+        "location": {
+          "city": "Zagreb",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2004",
+        "area_m2": 17000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada EUROTOWER",
+        "name_en": "Office building EUROTOWER",
+        "location": {
+          "city": "Zagreb",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2005",
+        "area_m2": 37000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Autocentar \"MERCEDES\" poslovna zgrada",
+        "name_en": "Office building - Autocenter  «MERCEDES»",
+        "location": {
+          "city": "Split-Dugopolje",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2006",
+        "area_m2": 6900,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stambeno-poslovna zgrada ORAMONT «Sukoišan»",
+        "name_en": "Residential and commercial building ORAMONT «Sukoišan»",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2006-2007",
+        "area_m2": 24000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada HZZO",
+        "name_en": "Office building HZZO",
+        "location": {
+          "city": "Zagreb",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 16000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": "Samitary and Plumbing"
+      },
+      {
+        "name_hr": "Stambeno poslovna zgrada  ELANIJA M-9",
+        "name_en": "Residential and commercial building  ELANIJA M-9",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 23000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stambeno poslovna zgrada  ELANIJA M-7-5",
+        "name_en": "Residential and commercial building  ELANIJA M-7-5",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2007",
+        "area_m2": 1500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada DAUS TRUCK",
+        "name_en": "Office building DAUS TRUCK",
+        "location": {
+          "city": "Dugopolje",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2008",
+        "area_m2": 7000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovni toranj \"O\" ( -4/+23 kata )",
+        "name_en": "Office Tower \"O\" ( -4/+23 floors )",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2008",
+        "area_m2": 40000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovni park FUTURAMA",
+        "name_en": "Office park FUTURAMA",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2008-2009",
+        "area_m2": 41510,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stambeno poslovna zgrada MERTOJAK P-12",
+        "name_en": "Residential and commercial building MERTOJAK P-12",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2009",
+        "area_m2": 14000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stambeno poslovna zgrada ELANIJA M 23-1",
+        "name_en": "Residential and commercial building ELANIJA M 23-1",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2010",
+        "area_m2": 20800,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stambeno poslovna zgrada ELANIJA P-17",
+        "name_en": "Residential and commercial building ELANIJA P-17",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2011-2012",
+        "area_m2": 24600,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stambeno poslovna zgrada DUILOVO \"A\" ( BELETAGE )",
+        "name_en": "Residential and commercial building DUILOVO \"A\" ( BELETAGE )",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2012",
+        "area_m2": 10600,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada TOMMY",
+        "name_en": "Office building TOMMY",
+        "location": {
+          "city": "Korčula",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2012-2013",
+        "area_m2": 11000,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – JUNGMANOVA",
+        "name_en": "Office building – JUNGMANOVA",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2013",
+        "area_m2": 12900,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Tvornica za preradu proizvoda ribarstva SARDINA Postira",
+        "name_en": "Fishery products processing factory SARDINA Postira",
+        "location": {
+          "city": "Otok Brač",
+          "country_hr": "Hrvatska",
+          "country_en": "Island Brač, Croatia"
+        },
+        "year": "2013",
+        "area_m2": 14200,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Rashladna tehnika"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Cooling technology"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada – JINDRIŠSKA",
+        "name_en": "Office building – JINDRIŠSKA",
+        "location": {
+          "city": "Prag",
+          "country_hr": "Češka Republika",
+          "country_en": "Czech Republic"
+        },
+        "year": "2013",
+        "area_m2": 8400,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovno-proizvodna zgrada STELLA MEDITERANEA",
+        "name_en": "Poslovno-proizvodna zgrada STELLA MEDITERANEA",
+        "location": {
+          "city": "Klis",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2013",
+        "area_m2": 600,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Pogon za proizvodnju sladoleda DELTA ST",
+        "name_en": "Poslovna zgrada - construction and equipping of ice cream production plant DELTA ST",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2016",
+        "area_m2": 980,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Poslovna zgrada EZ ENGINEERING",
+        "name_en": "Office building EZ ENGINEERING",
+        "location": {
+          "city": "Zadar",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2016",
+        "area_m2": 3300,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stambeno poslovna zgrada  PODGORA",
+        "name_en": "Stambeno poslovna zgrada  PODGORA",
+        "location": {
+          "city": "Podgora",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2017",
+        "area_m2": 4500,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Pogon za proizvodnju pršuta i drugih suhomesnatih proizvoda „MI Braća PIVAC“",
+        "name_en": "Plant for the production of prosciutto and other cured meat products \"MI Braća PIVAC\"",
+        "location": {
+          "city": "Ravča",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018-2019",
+        "area_m2": 9600,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Ribarska luka BRIŽINE na dijelu lučkog područja „Kaštelanski bazen C“",
+        "name_en": "Ribarska luka BRIŽINE on part of the port area \"Kaštelanski bazen C\"",
+        "location": {
+          "city": "Kaštel Sućurac",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018-2019",
+        "area_m2": null,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)",
+          "Sanitary and Plumbing"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Proizvodno - skladišni prostor ( montažna hala ) TROMONT Čaporice",
+        "name_en": "Production and storage space (assembly hall) TROMONT Čaporice",
+        "location": {
+          "city": "Čaporice",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018-2019",
+        "area_m2": 2800,
+        "object_type_hr": "Poslovni i stambeni objekti",
+        "object_type_en": "Commercial, business and residential buildings",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": [
+          "Mechanical services (HVAC)"
+        ],
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Gradski stadion POLJUD – rekonstrukcija instalacija",
+        "name_en": "Gradski stadion POLJUD – reconstruction of installations",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2018-2019",
+        "area_m2": null,
+        "object_type_hr": "Ostali objekti",
+        "object_type_en": "Other projects",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": null,
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Sveučilište u Splitu, ZNANSTVENO INOVACIJSKI CENTAR (kemijski, biokemijski laboratoriji, laboratoriji za elektronske mikroskope)",
+        "name_en": "Sveučilište u Splitu, ZNANSTVENO INOVACIJSKI CENTAR (chemical laboratories, biochemical laboratories, laboratories for electron microscopes)",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2023",
+        "area_m2": 9000,
+        "object_type_hr": "Ostali objekti",
+        "object_type_en": "Other projects",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Tehnički plinovi",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": null,
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Cjelovita obnova oštećene glavne zgrade Metalurškog fakulteta ( MF )",
+        "name_en": "Comprehensive renovation of the damaged main building of the Faculty of Metallurgy (MF)",
+        "location": {
+          "city": "Sisak",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2023",
+        "area_m2": 2800,
+        "object_type_hr": "Ostali objekti",
+        "object_type_en": "Other projects",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Tehnički plinovi",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": null,
+        "monter": false,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Centar za gospodarenje otpadom LEĆEVICA",
+        "name_en": "Centar za gospodarenje otpadom LEĆEVICA",
+        "location": {
+          "city": "Lećevica – Splitsko dalmatinska županija",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2022-2024",
+        "area_m2": 25593,
+        "object_type_hr": "Ostali objekti",
+        "object_type_en": "Other projects",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": null,
+        "monter": false,
+        "notes_hr": "+ okoliš 91.150 m2",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Cjelovita obnova zgrade HNB ( HRVATSKA NARODNA BANKA )",
+        "name_en": "Comprehensive renovation of the HNB building (Croatian National Bank)",
+        "location": {
+          "city": "Zagreb",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2024",
+        "area_m2": 4078,
+        "object_type_hr": "Ostali objekti",
+        "object_type_en": "Other projects",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja"
+        ],
+        "project_type_en": null,
+        "monter": false,
+        "notes_hr": "u tijeku",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Osnovna škola PODBREŽJE",
+        "name_en": "Osnovna škola PODBREŽJE",
+        "location": {
+          "city": "Zagreb",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "2024",
+        "area_m2": 6865,
+        "object_type_hr": "Ostali objekti",
+        "object_type_en": "Other projects",
+        "project_type_hr": [
+          "Strojarske instalacije",
+          "Vodovod i odvodnja",
+          "Sprinkler"
+        ],
+        "project_type_en": null,
+        "monter": false,
+        "notes_hr": "u tijeku",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Lakirnica zrakoplova SOKO",
+        "name_en": "Lakirnica zrakoplova SOKO",
+        "location": {
+          "city": "Mostar",
+          "country_hr": "BiH",
+          "country_en": "BiH"
+        },
+        "year": "1984",
+        "area_m2": 7600,
+        "object_type_hr": "Posebni industrijski objekti - hale",
+        "object_type_en": "Specific industrial facilities (halls)",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Tvornica fotonaponskih solarnih panela KONČAR-CHRONAR",
+        "name_en": "Tvornica fotonaponskih solarnih panela KONČAR-CHRONAR",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "1985",
+        "area_m2": 4200,
+        "object_type_hr": "Posebni industrijski objekti - hale",
+        "object_type_en": "Specific industrial facilities (halls)",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Tvornica obuće LIŠTO",
+        "name_en": "Tvornica obuće LIŠTO",
+        "location": {
+          "city": "Široki Brijeg",
+          "country_hr": "BiH",
+          "country_en": "BiH"
+        },
+        "year": "1986",
+        "area_m2": 6500,
+        "object_type_hr": "Posebni industrijski objekti - hale",
+        "object_type_en": "Specific industrial facilities (halls)",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hala za specijalne projekte u sklopu Brodograđevne industrije ( BIS )",
+        "name_en": "Hala za specijalne projekte within the Shipbuilding industry (BIS)",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "1986",
+        "area_m2": 5400,
+        "object_type_hr": "Posebni industrijski objekti - hale",
+        "object_type_en": "Specific industrial facilities (halls)",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": "H = 23 m",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Stara predmontažna hala u sklopu Brodograđevne industrije ( BIS )",
+        "name_en": "Old pre-assembly hall within the Shipbuilding industry (BIS)",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "1986",
+        "area_m2": 6800,
+        "object_type_hr": "Posebni industrijski objekti - hale",
+        "object_type_en": "Specific industrial facilities (halls)",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": "H = 26 m",
+        "notes_en": null
+      },
+      {
+        "name_hr": "Hala za specijalne projekte u sklopu Brodograđevne industrije ( BIS )",
+        "name_en": "Hala za specijalne projekte within the Shipbuilding industry (BIS)",
+        "location": {
+          "city": "Split",
+          "country_hr": "Hrvatska",
+          "country_en": "Croatia"
+        },
+        "year": "1987",
+        "area_m2": null,
+        "object_type_hr": "Posebni industrijski objekti - hale",
+        "object_type_en": "Specific industrial facilities (halls)",
+        "project_type_hr": [
+          "Strojarske instalacije"
+        ],
+        "project_type_en": null,
+        "monter": true,
+        "notes_hr": null,
+        "notes_en": null
+      }
+    ]
+  }

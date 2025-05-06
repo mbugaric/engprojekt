@@ -74,6 +74,20 @@ const Gallery: React.FC = () => {
   const [visibleCount, setVisibleCount] = useState(IMAGES_PER_PAGE);
   const modalRef = useRef<HTMLDivElement | null>(null);
   const touchStartX = useRef<number | null>(null);
+  const preloadedImages = useRef<Set<string>>(new Set());
+
+  const preloadImage = (src: string) => {
+    if (!preloadedImages.current.has(src)) {
+      const link = document.createElement("link");
+      link.rel = "preload";
+      link.as = "image";
+      link.href = src;
+      link.crossOrigin = "anonymous";
+      document.head.appendChild(link);
+      preloadedImages.current.add(src);
+      console.log("Preloading image:", src);
+    }
+  };
 
   const handleKeyDown = (e: KeyboardEvent) => {
     if (selectedIndex === null) return;
@@ -105,6 +119,14 @@ const Gallery: React.FC = () => {
 
   const isMoreAvailable = visibleCount < images.length;
 
+  useEffect(() => {
+    const start = visibleCount;
+    const end = Math.min(visibleCount + IMAGES_PER_PAGE, images.length);
+    for (let i = start; i < end; i++) {
+      preloadImage(images[i].src);
+    }
+  }, [visibleCount]);
+
   return (
     <section className="gallery" id="projects">
       <h2 className="section-heading">{t("projects")}</h2>
@@ -116,11 +138,8 @@ const Gallery: React.FC = () => {
             onClick={() => setSelectedIndex(idx)}
             style={{ "--delay": `${idx * 0.1}s` } as React.CSSProperties}
             onMouseEnter={() => {
-              const link = document.createElement("link");
-              link.rel = "preload";
-              link.as = "image";
-              link.href = img.src;
-              document.head.appendChild(link);
+              preloadImage(img.src);
+              if (idx + 1 < images.length) preloadImage(images[idx + 1].src);
             }}
           >
             <div className="gallery__image-wrapper">
