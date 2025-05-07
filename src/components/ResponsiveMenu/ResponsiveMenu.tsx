@@ -24,7 +24,7 @@ const ResponsiveMenu: React.FC = () => {
       <div className="top-line"></div>
       <div className="nav-container">
         <div className="logo">
-          <img src="/assets/logo.png" alt="ENG PROJEKT Logo" width={32} height={32} />
+          <img src="/assets/logo.png" alt="ENG PROJEKT Logo" width={50} height={50} />
         </div>
 
         <nav className="responsive-menu">

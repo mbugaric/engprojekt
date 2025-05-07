@@ -25,8 +25,8 @@ const Contact: React.FC = () => {
           <p className="company-name">ENG PROJEKT d.o.o.</p>
           <p className="company-sub">
             {language === "hr"
-              ? "Za projektiranje i nadzor nad gradnjom"
-              : "For design and construction supervision"}
+              ? "Projektiranje, nadzor i tehničko savjetovanje"
+              : "Design, supervision and technical consulting"}
           </p>
 
           <ul>
