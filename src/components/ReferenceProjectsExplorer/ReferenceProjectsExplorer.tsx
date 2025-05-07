@@ -4,7 +4,7 @@ import referenceRawData from "../../data/references/references.json";
 import "./ReferenceProjectsExplorer.scss";
 
 const referenceData = referenceRawData.projects;
-const ITEMS_PER_PAGE = 50;
+
 
 const ReferenceProjectsExplorer: React.FC = () => {
   const { language } = useI18n();
@@ -15,6 +15,13 @@ const ReferenceProjectsExplorer: React.FC = () => {
   const [selectedType, setSelectedType] = useState("");
   const [sortOption, setSortOption] = useState("area_desc");
   const [currentPage, setCurrentPage] = useState(1);
+
+  const itemsPerPage = useMemo(() => {
+    if (typeof window !== "undefined") {
+      return window.innerWidth < 768 ? 16 : 50;
+    }
+    return 50;
+  }, []);
 
   const sectionRef = useRef<HTMLElement>(null);
 
@@ -78,9 +85,9 @@ const ReferenceProjectsExplorer: React.FC = () => {
   }, [search, selectedCountry, selectedType, sortOption, language]);
 
   const paginated = useMemo(() => {
-    const start = (currentPage - 1) * ITEMS_PER_PAGE;
-    return filtered.slice(start, start + ITEMS_PER_PAGE);
-  }, [filtered, currentPage]);
+    const start = (currentPage - 1) * itemsPerPage;
+    return filtered.slice(start, start + itemsPerPage);
+  }, [filtered, currentPage, itemsPerPage]);
 
   useEffect(() => {
     setSelectedType("");
@@ -88,7 +95,7 @@ const ReferenceProjectsExplorer: React.FC = () => {
     setCurrentPage(1);
   }, [language]);
 
-  const totalPages = Math.ceil(filtered.length / ITEMS_PER_PAGE);
+  const totalPages = Math.ceil(filtered.length / itemsPerPage);
 
   return (
     <section className="reference-projects" id="references" ref={sectionRef}>
