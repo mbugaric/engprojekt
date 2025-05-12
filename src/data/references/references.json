@@ -362,7 +362,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotel \"MIRAMARE - VIENNA INTERNATIONAL\"",
@@ -476,7 +477,7 @@
       ],
       "monter": false,
       "notes_hr": "prvi hotel u RH koji pripada A kategoriji zelenih hotela hotel među 8 najboljih u EU: neZEH nearly ZeroEnergy Hotel",
-      "notes_en": "( first hotel in Croatia that belongs to the A category of green hotels ) ( hotel among the 8 best in the EU: neZEH nearly ZeroEnergy Hotel )"
+      "notes_en": "(first hotel in Croatia that belongs to the A category of green hotels ) ( hotel among the 8 best in the EU: neZEH nearly ZeroEnergy Hotel )"
     },
     {
       "name_hr": "Hotel \"HILTON MARJAN\"",
@@ -487,7 +488,7 @@
         "country_en": "Croatia"
       },
       "year": "2009-2010",
-      "area_m2": null,
+      "area_m2": 12500,
       "object_type_hr": "Hotelski objekti",
       "object_type_en": "Hospitality facilities & hotels",
       "project_type_hr": [
@@ -497,8 +498,8 @@
         "Mechanical services (HVAC)"
       ],
       "monter": false,
-      "notes_hr": null,
-      "notes_en": null
+      "notes_hr": "javni sadržaji 12.500 m2",
+      "notes_en": "public facilities 12,500 m2"
     },
     {
       "name_hr": "Hotel \"IVAN-SOLARIS\"",
@@ -666,7 +667,7 @@
     },
     {
       "name_hr": "Bazenski kompleks hotelskog naselja RUSKAMEN",
-      "name_en": "Bazenski kompleks hotelskog naselja RUSKAMEN",
+      "name_en": "Swimming pool complex of the hotel settlement RUSKAMEN",
       "location": {
         "city": "Ruskamen",
         "country_hr": "Hrvatska",
@@ -967,7 +968,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotel \"STARA ŠKOLA TISNO\"",
@@ -1038,7 +1040,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotel PERIVOJ",
@@ -1061,7 +1064,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotel \"CLAVIS\"",
@@ -1080,11 +1084,13 @@
         "Vodovod i odvodnja"
       ],
       "project_type_en": [
-        "Mechanical services (HVAC)"
+        "Mechanical services (HVAC)",
+        "Sanitary and Plumbing"
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotel \"MIRRARI\"",
@@ -1252,7 +1258,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Aparthotel \"AQUA\"",
@@ -1480,7 +1487,8 @@
       "project_type_en": null,
       "monter": true,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotel KALIN",
@@ -1490,15 +1498,20 @@
         "country_hr": "BiH",
         "country_en": "BiH"
       },
-      "year": null,
+      "year": "985-1986",
       "area_m2": 6700,
       "object_type_hr": "Hotelski objekti",
       "object_type_en": "Hospitality facilities & hotels",
-      "project_type_hr": null,
-      "project_type_en": null,
+      "project_type_hr": [
+        "Strojarske instalacije"
+      ],
+      "project_type_en": [
+        "Mechanical services (HVAC)"
+      ],
       "monter": true,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotelski apartmanski kompleks VRTOVI SUNCA",
@@ -1508,15 +1521,20 @@
         "country_hr": "Hrvatska",
         "country_en": "Croatia"
       },
-      "year": null,
+      "year": "1985-1986",
       "area_m2": 30000,
       "object_type_hr": "Hotelski objekti",
       "object_type_en": "Hospitality facilities & hotels",
-      "project_type_hr": null,
-      "project_type_en": null,
+      "project_type_hr": [
+        "Strojarske instalacije"
+      ],
+      "project_type_en": [
+        "Mechanical services (HVAC)"
+      ],
       "monter": true,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Hotel PANORAMA",
@@ -1526,33 +1544,43 @@
         "country_hr": "Češka Republika",
         "country_en": "Czech Republic"
       },
-      "year": null,
+      "year": "1986-1988",
       "area_m2": 26000,
       "object_type_hr": "Hotelski objekti",
       "object_type_en": "Hospitality facilities & hotels",
-      "project_type_hr": null,
-      "project_type_en": null,
+      "project_type_hr": [
+        "Strojarske instalacije"
+      ],
+      "project_type_en": [
+        "Mechanical services (HVAC)"
+      ],
       "monter": true,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
-      "name_hr": "Hotel CORINTHIA",
-      "name_en": "Hotel CORINTHIA",
+      "name_hr": "Hotel CORINTHIA (ex FORUM)",
+      "name_en": "Hotel CORINTHIA (ex FORUM)",
       "location": {
         "city": "Prag",
         "country_hr": "Češka Republika",
         "country_en": "Czech Republic"
       },
-      "year": null,
+      "year": "1986-1988",
       "area_m2": 38000,
       "object_type_hr": "Hotelski objekti",
       "object_type_en": "Hospitality facilities & hotels",
-      "project_type_hr": null,
-      "project_type_en": null,
+      "project_type_hr": [
+        "Strojarske instalacije"
+      ],
+      "project_type_en": [
+        "Mechanical services (HVAC)"
+      ],
       "monter": true,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Inter hotel PALACE",
@@ -1570,7 +1598,8 @@
       "project_type_en": null,
       "monter": true,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Trgovački centar «SUBA»",
@@ -1726,7 +1755,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": "Preliminary Design"
+      "notes_en": "Preliminary Design",
+      "concept": true
     },
     {
       "name_hr": "Trgovački centar «PORTANOVA»",
@@ -1772,7 +1802,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": "Preliminary Design"
+      "notes_en": "Preliminary Design",
+      "concept": true
     },
     {
       "name_hr": "Trgovački centar «XXLutz-LESNINA»",
@@ -2079,15 +2110,15 @@
       "notes_en": null
     },
     {
-      "name_hr": "Trgovački centar «XXLutz-MOMAX-LESNINA»",
-      "name_en": "Shopping center «XXLutz-MOMAX-LESNINA»",
+      "name_hr": "Trgovački centar «XXLutz-MOMAX-LESNINA» + skladište",
+      "name_en": "Shopping center «XXLutz-MOMAX-LESNINA» + warehouse",
       "location": {
         "city": "Rijeka",
         "country_hr": "Hrvatska",
         "country_en": "Croatia"
       },
       "year": "2020",
-      "area_m2": 31000,
+      "area_m2": 39500,
       "object_type_hr": "Trgovački centri",
       "object_type_en": "Shopping centers / malls",
       "project_type_hr": [
@@ -2247,8 +2278,8 @@
       "notes_en": null
     },
     {
-      "name_hr": "Poslovna zgrada- ALLIANZ",
-      "name_en": "Office building- ALLIANZ",
+      "name_hr": "Poslovna zgrada - ALLIANZ",
+      "name_en": "Office building - ALLIANZ",
       "location": {
         "city": "Prag",
         "country_hr": "Češka Republika",
@@ -2271,7 +2302,7 @@
       "notes_en": null
     },
     {
-      "name_hr": "Hrvatski školski i kulturni centar",
+      "name_hr": "Hrvatska škola i kulturni centar",
       "name_en": "Croatian School and Cultural Center",
       "location": {
         "city": "Budimpešta",
@@ -2852,7 +2883,8 @@
       ],
       "monter": false,
       "notes_hr": null,
-      "notes_en": null
+      "notes_en": null,
+      "concept": true
     },
     {
       "name_hr": "Poslovni park FUTURAMA",
@@ -3347,7 +3379,11 @@
         "Vodovod i odvodnja",
         "Sprinkler"
       ],
-      "project_type_en": null,
+      "project_type_en": [
+        "Mechanical services (HVAC)",
+        "Sanitary and Plumbing",
+        "Sprinkler"
+      ],
       "monter": false,
       "notes_hr": "u tijeku",
       "notes_en": null
@@ -3413,7 +3449,7 @@
       "notes_en": null
     },
     {
-      "name_hr": "Hala za specijalne projekte u sklopu Brodograđevne industrije ( BIS )",
+      "name_hr": "Hala za specijalne projekte u sklopu Brodograđevne industrije (BIS)",
       "name_en": "Hala za specijalne projekte within the Shipbuilding industry (BIS)",
       "location": {
         "city": "Split",
@@ -3814,8 +3850,8 @@
       ]
     },
     {
-      "name_hr": "Opća bolnica Šibenik – Ušni odjel",
-      "name_en": "General Hospital Šibenik – ENT Department",
+      "name_hr": "Opća bolnica Šibenik - Ušni odjel",
+      "name_en": "General Hospital Šibenik - ENT Department",
       "location": {
         "city": "Šibenik",
         "country_hr": "Hrvatska",
@@ -3837,8 +3873,8 @@
       ]
     },
     {
-      "name_hr": "KB Split, Odjel kirurgije, OP blok",
-      "name_en": "KB Split, Surgery Department, OR block",
+      "name_hr": "KB Split, Odjel kirurgije, OP blok ( 7 operacijskih dvorana )",
+      "name_en": "KB Split, Surgery Department, OR block (7 ORs)",
       "location": {
         "city": "Split",
         "country_hr": "Hrvatska",
@@ -3879,8 +3915,8 @@
       ]
     },
     {
-      "name_hr": "KB Split, Hitni kirurški prijem – nova OP dvorana traumatologije",
-      "name_en": "KB Split, Emergency Surgery – new trauma OR",
+      "name_hr": "KB Split, Hitni kirurški prijem - nova OP dvorana traumatologije",
+      "name_en": "KB Split, Emergency Surgery - new trauma OR",
       "location": {
         "city": "Split",
         "country_hr": "Hrvatska",
@@ -4116,8 +4152,8 @@
       ]
     },
     {
-      "name_hr": "Dnevna bolnica Zagvozd",
-      "name_en": "Zagvozd Day Hospital",
+      "name_hr": "Dnevna bolnica Zagvozd (dogradnja postojeće zgrade) ",
+      "name_en": "Zagvozd Day Hospital (Extension of Existing Building)",
       "location": {
         "city": "Zagvozd",
         "country_hr": "Hrvatska",
@@ -4403,14 +4439,10 @@
       "object_type_hr": "Medicinski objekt",
       "object_type_en": "Medical facility",
       "project_type_hr": [
-        "Idejni projekt",
-        "Glavni projekt",
-        "Izvedbeni projekt"
+        "Strojarske instalacije"
       ],
       "project_type_en": [
-        "Concept design",
-        "Main design",
-        "Detailed design"
+        "Mechanical installations"
       ],
       "monter": true
     },
@@ -4427,14 +4459,10 @@
       "object_type_hr": "Medicinski objekt",
       "object_type_en": "Medical facility",
       "project_type_hr": [
-        "Idejni projekt",
-        "Glavni projekt",
-        "Izvedbeni projekt"
+        "Strojarske instalacije"
       ],
       "project_type_en": [
-        "Concept design",
-        "Main design",
-        "Detailed design"
+        "Mechanical installations"
       ],
       "monter": true
     },
@@ -4475,14 +4503,10 @@
       "object_type_hr": "Medicinski objekt",
       "object_type_en": "Medical facility",
       "project_type_hr": [
-        "Idejni projekt",
-        "Glavni projekt",
-        "Izvedbeni projekt"
+        "Strojarske instalacije"
       ],
       "project_type_en": [
-        "Concept design",
-        "Main design",
-        "Detailed design"
+        "Mechanical installations"
       ],
       "monter": true
     },
@@ -4494,19 +4518,15 @@
         "country_hr": "Hrvatska",
         "country_en": "Croatia"
       },
-      "year": null,
+      "year": "1982-1984",
       "area_m2": 30000,
       "object_type_hr": "Medicinski objekt",
       "object_type_en": "Medical facility",
       "project_type_hr": [
-        "Idejni projekt",
-        "Glavni projekt",
-        "Izvedbeni projekt"
+        "Strojarske instalacije"
       ],
       "project_type_en": [
-        "Concept design",
-        "Main design",
-        "Detailed design"
+        "Mechanical services (HVAC)"
       ],
       "monter": true
     },
@@ -4542,19 +4562,15 @@
         "country_hr": "Libija",
         "country_en": "Libia"
       },
-      "year": null,
+      "year": "1988-1989",
       "area_m2": 30000,
       "object_type_hr": "Medicinski objekt",
       "object_type_en": "Medical facility",
       "project_type_hr": [
-        "Idejni projekt",
-        "Glavni projekt",
-        "Izvedbeni projekt"
+        "Strojarske instalacije"
       ],
       "project_type_en": [
-        "Concept design",
-        "Main design",
-        "Detailed design"
+        "Mechanical services (HVAC)"
       ],
       "monter": true
     },
@@ -4571,14 +4587,10 @@
       "object_type_hr": "Medicinski objekt",
       "object_type_en": "Medical facility",
       "project_type_hr": [
-        "Idejni projekt",
-        "Glavni projekt",
-        "Izvedbeni projekt"
+        "Mikro i makro transport"
       ],
       "project_type_en": [
-        "Concept design",
-        "Main design",
-        "Detailed design"
+        "Micro and macro transport"
       ],
       "monter": true
     },

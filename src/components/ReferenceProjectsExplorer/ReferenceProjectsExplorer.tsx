@@ -18,9 +18,9 @@ const ReferenceProjectsExplorer: React.FC = () => {
 
   const itemsPerPage = useMemo(() => {
     if (typeof window !== "undefined") {
-      return window.innerWidth < 768 ? 16 : 50;
+      return window.innerWidth < 768 ? 16 : 30;
     }
-    return 50;
+    return 30;
   }, []);
 
   const sectionRef = useRef<HTMLElement>(null);
