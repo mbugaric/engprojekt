@@ -5,7 +5,6 @@ import "./ReferenceProjectsExplorer.scss";
 
 const referenceData = referenceRawData.projects;
 
-
 const ReferenceProjectsExplorer: React.FC = () => {
   const { language } = useI18n();
   const t = (hr: string, en: string) => (language === "hr" ? hr : en);
@@ -166,6 +165,10 @@ const ReferenceProjectsExplorer: React.FC = () => {
             <p>
               {t("Vrsta projekta", "Project type")}: {(language === "hr" ? p.project_type_hr ?? [] : p.project_type_en ?? []).join(", ")}
             </p>
+            <div className="badge-container">
+              {p?.monter && <span className="badge monter">{t("u sklopu firme Monter", "within Monter company")}</span>}
+              {p?.concept && <span className="badge concept">{t("idejni projekt", "concept design")}</span>}
+            </div>
           </div>
         ))}
         {filtered.length === 0 && <p className="no-results">{t("Nema rezultata za prikaz.", "No results to display.")}</p>}
