@@ -1,9 +1,7 @@
 import React, { useState, useMemo, useRef, useEffect } from "react";
 import { useI18n } from "../../i18n/useI18n";
-import referenceRawData from "../../data/references/references.json";
-import "./ReferenceProjectsExplorer.scss";
 
-const referenceData = referenceRawData.projects;
+import "./ReferenceProjectsExplorer.scss";
 
 const ReferenceProjectsExplorer: React.FC = () => {
   const { language } = useI18n();
@@ -14,12 +12,23 @@ const ReferenceProjectsExplorer: React.FC = () => {
   const [selectedType, setSelectedType] = useState("");
   const [sortOption, setSortOption] = useState("area_desc");
   const [currentPage, setCurrentPage] = useState(1);
+  const [referenceData, setReferenceData] = useState<any[]>([]);
 
   const itemsPerPage = useMemo(() => {
     if (typeof window !== "undefined") {
       return window.innerWidth < 768 ? 16 : 30;
     }
     return 30;
+  }, []);
+
+  useEffect(() => {
+    fetch("https://raw.githubusercontent.com/mbugaric/engprojekt-references/refs/heads/main/references.json")
+      .then((res) => res.json())
+      .then((data) => setReferenceData(data.projects || []))
+      .catch((err) => {
+        console.error("Failed to load reference data", err);
+        setReferenceData([]);
+      });
   }, []);
 
   const sectionRef = useRef<HTMLElement>(null);
