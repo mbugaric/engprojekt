@@ -12,7 +12,8 @@ const ReferenceProjectsExplorer: React.FC = () => {
   const [selectedType, setSelectedType] = useState("");
   const [sortOption, setSortOption] = useState("area_desc");
   const [currentPage, setCurrentPage] = useState(1);
-  const [referenceData, setReferenceData] = useState<any[]>([]);
+  const [referenceData, setReferenceData] = useState([]);
+  const [isLoading, setIsLoading] = useState(true);
 
   const itemsPerPage = useMemo(() => {
     if (typeof window !== "undefined") {
@@ -22,12 +23,16 @@ const ReferenceProjectsExplorer: React.FC = () => {
   }, []);
 
   useEffect(() => {
-    fetch("https://raw.githubusercontent.com/mbugaric/engprojekt-references/refs/heads/main/references.json")
+    fetch("https://raw.githubusercontent.com/mbugaric/engprojekt-references/main/references.json")
       .then((res) => res.json())
-      .then((data) => setReferenceData(data.projects || []))
+      .then((data) => {
+        setReferenceData(data.projects || []);
+        setIsLoading(false);
+      })
       .catch((err) => {
         console.error("Failed to load reference data", err);
         setReferenceData([]);
+        setIsLoading(false);
       });
   }, []);
 
@@ -61,6 +66,8 @@ const ReferenceProjectsExplorer: React.FC = () => {
   }, [language]);
 
   const filtered = useMemo(() => {
+    if (!referenceData.length) return [];
+
     const result = referenceData.filter((p) => {
       const nameMatch = (p.name_hr + p.name_en + p.location.city).toLowerCase().includes(search.toLowerCase());
       const countryMatch = !selectedCountry || (language === "hr" ? p.location.country_hr : p.location.country_en) === selectedCountry;
@@ -90,7 +97,7 @@ const ReferenceProjectsExplorer: React.FC = () => {
     });
 
     return result;
-  }, [search, selectedCountry, selectedType, sortOption, language]);
+  }, [referenceData, search, selectedCountry, selectedType, sortOption, language]);
 
   const paginated = useMemo(() => {
     const start = (currentPage - 1) * itemsPerPage;
@@ -104,6 +111,15 @@ const ReferenceProjectsExplorer: React.FC = () => {
   }, [language]);
 
   const totalPages = Math.ceil(filtered.length / itemsPerPage);
+
+  if (isLoading) {
+    return (
+      <section className="reference-projects" id="references">
+        <h2 className="section-heading">{t("Reference", "References")}</h2>
+        <p style={{ textAlign: "center", padding: "2rem" }}>{t("Učitavanje podataka...", "Loading data...")}</p>
+      </section>
+    );
+  }
 
   return (
     <section className="reference-projects" id="references" ref={sectionRef}>
