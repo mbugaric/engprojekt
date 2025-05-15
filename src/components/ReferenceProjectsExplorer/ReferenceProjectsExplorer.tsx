@@ -3,6 +3,22 @@ import { useI18n } from "../../i18n/useI18n";
 
 import "./ReferenceProjectsExplorer.scss";
 
+type ReferenceProject = {
+  name_hr: string;
+  name_en: string;
+  location: {
+    city: string;
+    country_hr: string;
+    country_en: string;
+  };
+  year: string | number | null;
+  area_m2: number | null;
+  project_type_hr: string[];
+  project_type_en: string[];
+  monter?: boolean;
+  concept?: boolean;
+};
+
 const ReferenceProjectsExplorer: React.FC = () => {
   const { language } = useI18n();
   const t = (hr: string, en: string) => (language === "hr" ? hr : en);
@@ -12,7 +28,7 @@ const ReferenceProjectsExplorer: React.FC = () => {
   const [selectedType, setSelectedType] = useState("");
   const [sortOption, setSortOption] = useState("area_desc");
   const [currentPage, setCurrentPage] = useState(1);
-  const [referenceData, setReferenceData] = useState([]);
+  const [referenceData, setReferenceData] = useState<ReferenceProject[]>([]);
   const [isLoading, setIsLoading] = useState(true);
 
   const itemsPerPage = useMemo(() => {
@@ -58,12 +74,12 @@ const ReferenceProjectsExplorer: React.FC = () => {
 
   const countries = useMemo(() => {
     return [...new Set(referenceData.map((p) => (language === "hr" ? p.location.country_hr : p.location.country_en)))];
-  }, [language]);
+  }, [referenceData, language]);
 
   const types = useMemo(() => {
     const all = referenceData.flatMap((p) => (language === "hr" ? p.project_type_hr : p.project_type_en));
     return [...new Set(all)].sort();
-  }, [language]);
+  }, [referenceData, language]);
 
   const filtered = useMemo(() => {
     if (!referenceData.length) return [];
