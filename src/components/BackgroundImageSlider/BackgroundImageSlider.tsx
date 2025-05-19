@@ -78,6 +78,7 @@ const BackgroundImageSlider: React.FC = () => {
       {hasEnded && (
         <div className="background-slider__title">
           <h1>ENG PROJEKT d.o.o.</h1>
+          <h2>Projektiranje, nadzor i tehničko savjetovanje</h2>
         </div>
       )}
     </div>
