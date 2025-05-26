@@ -37,7 +37,7 @@ const BackgroundImageSlider: React.FC = () => {
 
   useEffect(() => {
     const timeout = setTimeout(() => {
-      setHasEnded(true); 
+      setHasEnded(true);
     }, 7000);
     return () => clearTimeout(timeout);
   }, []);
@@ -62,6 +62,12 @@ const BackgroundImageSlider: React.FC = () => {
 
   return (
     <div className="background-slider" id="home">
+      <div
+        className="background-slider__fallback"
+        style={{
+          backgroundImage: `url(${images[images.length - 1]})`,
+        }}
+      ></div>
       {images.map((src, index) => {
         const isActive = index === currentIndex;
         const isPrevious = index === previousIndex;
